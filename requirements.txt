@@ -1,0 +1,12 @@
+chromadb==0.4.14
+pandas==2.3.3
+pdfplumber==0.11.10
+PyMuPDF==1.23.8
+python-docx==0.8.11
+python-dotenv==1.0.0
+rank-bm25==0.2.2
+requests==2.31.0
+sentence-transformers==5.6.0
+streamlit==1.58.0
+streamlit-option-menu==0.4.0
+tiktoken==0.13.0

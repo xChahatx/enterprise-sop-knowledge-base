@@ -1,0 +1,12 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.vscode/
+.streamlit/secrets.toml
+
+# generated data (keep the folder, ignore its contents)
+data/*
+!data/.gitkeep
